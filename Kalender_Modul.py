@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 Mein erster eigener commit
-Papa kann es auch sehen!
 """
 
 import calendar
