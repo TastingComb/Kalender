@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Sun Mar  8 15:19:29 2020
-
-@author: ingo
+Mein erster eigener commit
 """
 
 import calendar
